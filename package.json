@@ -1,5 +1,6 @@
 {
   "name": "first-jsx-mern",
+  "homepage": "https://www.tylermaxwell.co/first-jsx-mern/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
